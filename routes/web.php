@@ -98,14 +98,24 @@ Route::get('/mitra-perusahaan', function () {
 /*------------------------------------------*/
 //artikel & Berita
 /*------------------------------------------*/
-Route::get('media/artikel-berita', function () {
+Route::get('/media/artikel-berita', function () {
     return view('media/all-artikel-berita');
 });
 /*------------------------------------------*/
+//ceritanya 05
+/*------------------------------------------*/
+Route::get('/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn', function () {
+    return view('media/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn');
+});
+/*------------------------------------------*/
+
 //kegiatan
 /*------------------------------------------*/
-Route::get('media/kegiatan', function () {
+Route::get('/media/kegiatan', function () {
     return view('media/all-kegiatan');
+});
+Route::get('/media/kegiatan/01/focus-gelar-acara-jalan-sehat-dalam-rangka-menyambut-hut-ke-73-kemerdekaan-ri-di-gorontalo', function () {
+    return view('media/kegiatan/1/kegiatan-1');
 });
 
 /*------------------------------------------*/
@@ -128,3 +138,29 @@ Route::get('/tata-cara-pengaduan', function () {
 Route::get('/FAQ', function () {
     return view('hubungi-kami/faq');
 });
+/*------------------------------------------*/
+//SEARCH
+/*------------------------------------------*/
+Route::any('/cari',function(){
+    $cari = Input::get ( 's' );
+    if($cari == 'custom bond')
+        return view('/search/search-custom-bond', ['name' => $cari]);
+    else if ($cari == 'pembiayaan umum')
+        return view('/search/search-pembiayaan-umum', ['name' => $cari]);
+    else if ($cari == 'pembiayaan multiguna')
+        return view('/search/search-pembiayaan-multiguna', ['name' => $cari]);
+    else if ($cari == 'pembiayaan mikro')
+        return view('/search/search-pembiayaan-mikro', ['name' => $cari]);
+    else if ($cari == 'pembiayaan konstruksi')
+        return view('/search/search-pembiayaan-konstruksi', ['name' => $cari]);
+    else if ($cari == 'kontra bank garansi')
+        return view('/search/search-kontra-bank-garansi', ['name' => $cari]);
+    else if ($cari == 'pembiayaan pemilikan rumah')
+        return view ('/search/search-pembiayaan-pemilikan-rumah', ['name' => $cari]);
+    else if ($cari == 'tentang industri jasa keuangan')
+        return view ('/search/search-artikel', ['name' => $cari]);
+    else
+        return view ('/search/tidak-ditemukan', ['name' => $cari]);
+});
+
+
