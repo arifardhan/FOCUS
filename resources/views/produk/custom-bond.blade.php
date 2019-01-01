@@ -214,5 +214,6 @@
 
 <!-- Back to the top -->
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+@include('layout.library')
 </body>
 </html>

@@ -40,13 +40,13 @@
 </div>
 <div class="recent-single-post">
     <div class="post-img">
-        <a href="#">
+        <a href="/media/artikel-berita/read/03/tentang-industri-jasa-keuangan">
             <img src="{{asset('assets/img/blog/3.jpg')}}" alt="">
         </a>
     </div>
     <div class="pst-content">
         <p style="margin: 0 0 5px;">
-            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="#">
+            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="/media/artikel-berita/read/03/tentang-industri-jasa-keuangan">
                 (Artikel) Tentang Industri Jasa Keuangan
             </a>
         </p>

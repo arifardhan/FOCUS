@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    @include('layout.title-produk')
+    @include('layout.title-media')
 </head>
 
 <head>

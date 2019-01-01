@@ -49,7 +49,7 @@
                                 Jasa keuangan adalah suatu istilah yang digunakan untuk merujuk jasa yang disediakan oleh industri keuangan. Jasa keuangan juga digunakan untuk merujuk pada organisasi yang menangani pengelolaan dana. Bank, bank investasi, perusahaan asuransi, perusahaan kartu kredit, perusahaan pembiayaan konsumen...
                             </p>
                             <span>
-                                <a href="#" class="ready-btn">Selengkapnya</a>
+                                <a href="/media/artikel-berita/read/03/tentang-industri-jasa-keuangan" class="ready-btn">Selengkapnya</a>
                             </span>
                     </div>
                 </div>

@@ -108,6 +108,12 @@ Route::get('/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berk
     return view('media/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn');
 });
 /*------------------------------------------*/
+//ceritanya 03
+/*------------------------------------------*/
+Route::get('/media/artikel-berita/read/03/tentang-industri-jasa-keuangan', function () {
+    return view('media/read/03/tentang-industri-jasa-keuangan');
+});
+/*------------------------------------------*/
 
 //kegiatan
 /*------------------------------------------*/
