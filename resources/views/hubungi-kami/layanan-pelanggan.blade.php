@@ -93,15 +93,15 @@
                         <div id="errormessage">Maaf pesan tidak terkirim.</div>
                         <form action="" method="post" role="form" class="contactForm" onsubmit="validasi()">
                             <div class="form-group">
-                                <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" data-rule="minlen:4" data-msg="Mohon masukan setidaknya 4 karakter" />
+                                <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" data-rule="minlen:1" data-msg="Wajib diisi" />
                                 <div class="validation"></div>
                             </div>
                             <div class="form-group">
-                                <input type="email" class="form-control" name="email" id="email" placeholder="Email Anda" data-rule="email" data-msg="Mohon masukkan email yang valid" />
+                                <input type="email" class="form-control" name="email" id="email" placeholder="Email Anda" data-rule="email" data-msg="Wajib diisi" />
                                 <div class="validation"></div>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subjek" data-rule="minlen:4" data-msg="Mohon masukkan setidaknya 8 karakter" />
+                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subjek" data-rule="minlen:1" data-msg="Wajib diisi" />
                                 <div class="validation"></div>
                             </div>
                             <div class="form-group">
@@ -161,6 +161,12 @@
             e.preventDefault();
         }else{
         }
+    }
+    function submit() {
+        document.getElementById("name").reset();
+        document.getElementById("email").reset();
+        document.getElementById("subject").reset();
+        document.getElementById("message").reset();
     }
 </script>
 </body>

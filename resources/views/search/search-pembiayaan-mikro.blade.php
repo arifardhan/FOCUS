@@ -39,14 +39,14 @@
                     <div class="single-blog">
                         <div class="blog-text">
                             <h4 style="margin-bottom: 0px">
-                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/3/pembiayaan-mikro">Pembiayaan Mikro</a>
+                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/3/pembiayaan-mikro">Penjaminan Pembiayaan Mikro</a>
                             </h4>
                             <div class="blog-meta" style="margin-bottom: 15px">
                                 <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk </a></span>
                                 <span>&nbsp; <i class="fa fa-clock-o"></i>Jum'at, 28 Desember 2018</span>
                             </div>
                             <p>
-                                Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan...
+                                Penjaminan Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan...
                             </p>
                             <span>
                                 <a href="/produk/detail/3/pembiayaan-mikro" class="ready-btn">Selengkapnya</a>

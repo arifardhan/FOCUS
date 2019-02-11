@@ -32,13 +32,13 @@
                             </li>
                             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Produk & Layanan<span class="caret"></span></a>
                                 <ul class="dropdown-menu" role="menu">
-                                    <li><a href='/produk/detail/1/pembiayaan-umum' >Pembiayaan Umum</a></li>
-                                    <li><a href='/produk/detail/2/pembiayaan-multiguna' >Pembiayaan Multiguna</a></li>
-                                    <li><a href='/produk/detail/3/pembiayaan-mikro' >Pembiayaan Mikro</a></li>
-                                    <li><a href='/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa' >Pembiayaan Konstruksi & Pengadaan Barang/Jasa</a></li>
+                                    <li><a href='/produk/detail/1/pembiayaan-umum' >Penjaminan Pembiayaan Umum</a></li>
+                                    <li><a href='/produk/detail/2/pembiayaan-multiguna' >Penjaminan Pembiayaan Multiguna</a></li>
+                                    <li><a href='/produk/detail/3/pembiayaan-mikro' >Penjaminan Pembiayaan Mikro</a></li>
+                                    <li><a href='/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa' >Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa</a></li>
                                     <li><a href='/produk/detail/5/custom-bond' >Custom Bond</a></li>
                                     <li><a href='/produk/detail/6/kontra-bank-garansi' >Kontra Bank Garansi</a></li>
-                                    <li><a href='/produk/detail/7/pembiayaan-pemilikan-rumah' >Pembiayaan Pemilikan Rumah Dengan FLPP</a></li>
+                                    <li><a href='/produk/detail/7/letter-of-credit' >Letter of Credit (L/C)</a></li>
                                 </ul>
                             </li>
                             <li>

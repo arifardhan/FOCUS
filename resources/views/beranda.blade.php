@@ -125,9 +125,9 @@
                                 <a class="services-icon" href="/produk/detail/1/pembiayaan-umum">
                                     <i class="fa fa-check-square"></i>
                                 </a>
-                                <h4>Pembiayaan Umum</h4>
+                                <h5><b>Penjaminan Pembiayaan Umum</b></h5>
                                 <p>
-                                    Pembiayaan Umum adalah Penjaminan Pembiayaan yang diajukan untuk mendukung kelancaran kegiatan Usaha/Proyek atau
+                                    Penjaminan Pembiayaan Umum adalah Penjaminan Pembiayaan yang diajukan untuk mendukung kelancaran kegiatan Usaha/Proyek atau
                                     Kegiatan Investasi yang dilakukan oleh perorangan...                   </p>
                             </div>
                         </div>
@@ -144,9 +144,9 @@
                                 <a class="services-icon" href="/produk/detail/2/pembiayaan-multiguna">
                                     <i class="fa fa-briefcase"></i>
                                 </a>
-                                <h4>Pembiayaan Multiguna</h4>
+                                <h5><b>Penjaminan Pembiayaan Multiguna</b></h5>
                                 <p>
-                                    Pembiayaan Multiguna adalah Pembiayaan atau Penjaminan atas kredit/pembiayaan yang diberikan oleh Penerima Jaminan
+                                    Penjaminan Pembiayaan Multiguna adalah Pembiayaan atau Penjaminan atas kredit/pembiayaan yang diberikan oleh Penerima Jaminan
                                     untuk Lembaga Keuangan Lainya (Non Bank) kepada Terjamin..</div>
                         </div>
                         <!-- end about-details -->
@@ -163,9 +163,9 @@
                                 <a class="services-icon" href='/produk/detail/3/pembiayaan-mikro'>
                                     <i class="fa fa-bar-chart"></i>
                                 </a>
-                                <h4>Pembiayaan Mikro</h4>
+                                <h5><b>Penjaminan Pembiayaan Mikro</b></h5>
                                 <p>
-                                    Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima
+                                    Penjaminan Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima
                                     Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan..</div>
                         </div>
                         <!-- end about-details -->
@@ -182,9 +182,9 @@
                                 <a class="services-icon" href='/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa'>
                                     <i class="fa fa-building-o"></i>
                                 </a>
-                                <h4>Pembiayaan Konstruksi & Pengadaan Barang/Jasa </h4>
+                                <h5><b>Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa </b> </h5>
                                 <p>
-                                    Pembiayaan Konstruksi & Pengadaan Barang/Jasa adalah Penjaminan/Pembiayaan atas Kredit yang diberikan
+                                    Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa adalah Penjaminan/Pembiayaan atas Kredit yang diberikan
                                     oleh Penerima Jaminan kepada Terjamin untuk keperluan tambahan Modal Kerja usaha jasa Konstruksi...
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                                 <a class="services-icon" href='/produk/detail/5/custom-bond'>
                                     <i class="fa fa-ship"></i>
                                 </a>
-                                <h4>Custom Bond </h4>
+                                <h4><b> Custom Bond </b></h4>
                                 <br/>
                                 <p>
                                     Custom Bond adalah jenis penjaminan yang diberikan oleh Perusahaan Asuransi Penjamin (Surety Company),
@@ -222,7 +222,7 @@
                                 <a class="services-icon" href='/produk/detail/6/kontra-bank-garansi'>
                                     <i class="fa fa-file-text"></i>
                                 </a>
-                                <h4>Kontra Bank Garansi</h4>
+                                <h4> <b>Kontra Bank Garansi</b></h4>
                                 <br/>
                                 <p>
                                     Kontra Bank Garansi adalah Penjaminan yang diberikan Penjamin (Perusahaan Penjaminan) kepada

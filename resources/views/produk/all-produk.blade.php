@@ -39,14 +39,14 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" class="active" data-parent="#accordion" href="#check1">
-                                        <span class="acc-icons"></span>PEMBIAYAAN UMUM
+                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN UMUM
                                     </a>
                                 </h4>
                             </div>
                             <div id="check1" class="panel-collapse collapse in">
                                 <div class="panel-body">
                                     <p>
-                                        Pembiayaan Umum adalah Penjaminan Pembiayaan yang diajukan untuk mendukung kelancaran
+                                        Penjaminan Pembiayaan Umum adalah Penjaminan Pembiayaan yang diajukan untuk mendukung kelancaran
                                         kegiatan Usaha/Proyek atau Kegiatan Investasi yang dilakukan oleh perorangan...<a href="/produk/detail/1/pembiayaan-umum">Selengkapnya</a>
                                     </p>
                                 </div>
@@ -58,14 +58,14 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                                        <span class="acc-icons"></span> PEMBIAYAAN MULTIGUNA
+                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN MULTIGUNA
                                     </a>
                                 </h4>
                             </div>
                             <div id="check2" class="panel-collapse collapse">
                                 <div class="panel-body">
                                     <p>
-                                        Pembiayaan Multiguna adalah Pembiayaan atau Penjaminan atas kredit/pembiayaan yang diberikan oleh Penerima Jaminan untuk Lembaga Keuangan Lainya (Non Bank) kepada Terjamin...<a href="/produk/detail/2/pembiayaan-multiguna">Selengkapnya</a>
+                                        Penjaminan Pembiayaan Multiguna adalah Pembiayaan atau Penjaminan atas kredit/pembiayaan yang diberikan oleh Penerima Jaminan untuk Lembaga Keuangan Lainya (Non Bank) kepada Terjamin...<a href="/produk/detail/2/pembiayaan-multiguna">Selengkapnya</a>
                                     </p>
                                 </div>
                             </div>
@@ -76,14 +76,14 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check3">
-                                        <span class="acc-icons"></span>PEMBIAYAAN MIKRO
+                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN MIKRO
                                     </a>
                                 </h4>
                             </div>
                             <div id="check3" class="panel-collapse collapse ">
                                 <div class="panel-body">
                                     <p>
-                                        Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan...
+                                        Penjaminan Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan...
                                         <a href="/produk/detail/3/pembiayaan-mikro">Selengkapnya</a>
                                     </p>
                                 </div>
@@ -95,14 +95,14 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check4">
-                                        <span class="acc-icons"></span>PEMBIAYAAN KONSTRUKSI & PENGADAAN BARANG JASA
+                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN KONSTRUKSI & PENGADAAN BARANG JASA
                                     </a>
                                 </h4>
                             </div>
                             <div id="check4" class="panel-collapse collapse ">
                                 <div class="panel-body">
                                     <p>
-                                        Pembiayaan Konstruksi & Pengadaan Barang/Jasa adalah Penjaminan/Pembiayaan atas Kredit yang diberikan oleh Penerima Jaminan kepada Terjamin untuk keperluan tambahan Modal Kerja usaha jasa Konstruksi...
+                                        Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa adalah Penjaminan/Pembiayaan atas Kredit yang diberikan oleh Penerima Jaminan kepada Terjamin untuk keperluan tambahan Modal Kerja usaha jasa Konstruksi...
                                         <a href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">Selengkapnya</a>
                                     </p>
                                 </div>
@@ -152,15 +152,15 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check7">
-                                        <span class="acc-icons"></span>PEMBIAYAAN PEMILIKAN RUMAH DENGAN FLPP
+                                        <span class="acc-icons"></span>LETTER OF CREDIT (L/C)
                                     </a>
                                 </h4>
                             </div>
                             <div id="check7" class="panel-collapse collapse ">
                                 <div class="panel-body">
                                     <p>
-                                        Pembiayaan Pemilikan Rumah dengan Fasilitas Likuiditas Pembiayaan Rumah (FLPP) adalah Penjaminan atas pembiayaan dengan kementrian perumahan rakyat dengan suku bunga rendah...
-                                        <a href="/produk/detail/7/pembiayaan-pemilikan-rumah">Selengkapnya</a>
+                                        Letter of Credit (L/C) merupakan suatu janji yang pasti dari issuing bank yang bersifat irrevocable untuk melakukan pembayaran kepada pihak penerima (beneficiary) atas presentasi dokumen yang sesuai (complying presentation) dengan...
+                                        <a href="/produk/detail/7/letter-of-credit">Selengkapnya</a>
                                     </p>
                                 </div>
                             </div>

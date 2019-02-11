@@ -39,14 +39,14 @@
                     <div class="single-blog">
                         <div class="blog-text">
                             <h4 style="margin-bottom: 0px">
-                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/2/pembiayaan-multiguna">Pembiayaan Multiguna</a>
+                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/2/pembiayaan-multiguna">Penjaminan Pembiayaan Multiguna</a>
                             </h4>
                             <div class="blog-meta" style="margin-bottom: 15px">
                                 <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk </a></span>
                                 <span>&nbsp; <i class="fa fa-clock-o"></i>Jum'at, 28 Desember 2018</span>
                             </div>
                             <p>
-                                Pembiayaan Multiguna adalah Pembiayaan atau Penjaminan atas kredit/pembiayaan yang diberikan oleh Penerima Jaminan untuk Lembaga Keuangan Lainya (Non Bank) kepada Terjamin...
+                                Penjaminan Pembiayaan Multiguna adalah Pembiayaan atau Penjaminan atas kredit/pembiayaan yang diberikan oleh Penerima Jaminan untuk Lembaga Keuangan Lainya (Non Bank) kepada Terjamin...
                             </p>
                             <span>
                                 <a href="/produk/detail/2/pembiayaan-multiguna" class="ready-btn">Selengkapnya</a>

@@ -82,8 +82,8 @@ Route::get('/produk/detail/6/kontra-bank-garansi', function () {
 });
 //Produk-5
 /*------------------------------------------*/
-Route::get('/produk/detail/7/pembiayaan-pemilikan-rumah', function () {
-    return view('produk/p-pemilikan-rumah');
+Route::get('/produk/detail/7/letter-of-credit', function () {
+    return view('produk/p-letter-of-credit');
 });
 
 /*------------------------------------------*/
@@ -161,8 +161,8 @@ Route::any('/cari',function(){
         return view('/search/search-pembiayaan-konstruksi', ['name' => $cari]);
     else if ($cari == 'kontra bank garansi')
         return view('/search/search-kontra-bank-garansi', ['name' => $cari]);
-    else if ($cari == 'pembiayaan pemilikan rumah')
-        return view ('/search/search-pembiayaan-pemilikan-rumah', ['name' => $cari]);
+    else if ($cari == 'letter of credit')
+        return view ('/search/search-letter-of-credit', ['name' => $cari]);
     else if ($cari == 'tentang industri jasa keuangan')
         return view ('/search/search-artikel', ['name' => $cari]);
     else

@@ -39,17 +39,17 @@
                     <div class="single-blog">
                         <div class="blog-text">
                             <h4 style="margin-bottom: 0px">
-                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/7/pembiayaan-pemilikan-rumah">Pembiayaan Pemilkan Rumah Dengan Fasilitas Likuiditas Pembiayaan Rumah (FLPP)</a>
+                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/7/letter-of-credit">Letter of Credit</a>
                             </h4>
                             <div class="blog-meta" style="margin-bottom: 15px">
                                 <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk </a></span>
                                 <span>&nbsp; <i class="fa fa-clock-o"></i>Jum'at, 28 Desember 2018</span>
                             </div>
                             <p>
-                                Pembiayaan Pemilikan Rumah dengan Fasilitas Likuiditas Pembiayaan Rumah (FLPP) adalah Penjaminan atas pembiayaan dengan kementrian perumahan rakyat dengan suku bunga rendah...
-                            </p>
+                                Letter of Credit (L/C) merupakan suatu janji yang pasti dari issuing bank yang bersifat irrevocable untuk melakukan
+                                pembayaran kepada pihak penerima (beneficiary) atas presentasi dokumen yang sesuai (complying presentation) dengan...</p>
                             <span>
-                                <a href="/produk/detail/7/pembiayaan-pemilikan-rumah" class="ready-btn">Selengkapnya</a>
+                                <a href="/produk/detail/7/letter-of-credit" class="ready-btn">Selengkapnya</a>
                             </span>
                         </div>
                     </div>

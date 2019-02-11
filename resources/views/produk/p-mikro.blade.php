@@ -22,7 +22,7 @@
         <h1>Produk</h1>
         <div class="link-breadcrumb">
             <a href="/" class="active">Beranda</a>
-            <a href="/produk">Produk & Layanan / </a>Pembiayaan Mikro</div>
+            <a href="/produk">Produk & Layanan / </a>Penjaminan Pembiayaan Mikro</div>
     </div>
 </section>
 <!-- End Breadcumb Area -->
@@ -58,7 +58,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/1/pembiayaan-umum">
-                                                Pembiayaan Umum
+                                                Penjaminan Pembiayaan Umum
                                             </a></p>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
-                                                Pembiayaan Konstruksi & Pengadaan Barang/Jasa
+                                                Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa
                                             </a></p>
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/2/pembiayaan-multiguna">
-                                                Pembiayaan Multiguna
+                                                Penjaminan Pembiayaan Multiguna
                                             </a></p>
                                     </div>
                                 </div>
@@ -121,13 +121,13 @@
                                 <!-- End single post -->
                                 <div class="recent-single-post">
                                     <div class="post-img">
-                                        <a href="/produk/detail/7/pembiayaan-pemilikan-rumah">
+                                        <a href="/produk/detail/7/letter-of-credit">
                                             <img src="{{asset('assets/img/produk/7.jpg')}}" alt="">
                                         </a>
                                     </div>
                                     <div class="pst-content">
-                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/7/pembiayaan-pemilikan-rumah">
-                                                Pembiayaan Pemilikan Rumah Dengan FLPP
+                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/7/letter-of-credit">
+                                                Letter of Credit (L/C)
                                             </a></p>
                                     </div>
                                 </div>
@@ -149,13 +149,13 @@
                                 <img src="{{asset('assets/img/produk/3.jpg')}}" alt="" />
                             </div>
                             <div class="post-information">
-                                <h2 style="font-family: Raleway; color: #0C519D";>Pembiayaan Mikro</h2>
+                                <h2 style="font-family: Raleway; color: #0C519D";>Penjaminan Pembiayaan Mikro</h2>
                                 <div class="entry-meta">
                                     <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk</a></span>
                                     <span><i class="fa fa-clock-o"></i> Jum'at, 28 Desember 2018</span>
                                 </div>
                                 <div class="entry-content">
-                                    <p>Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan Modal Kerja dan/atau investasi dalam rangka peningkatan dan pengembangan usaha Produktif, yang jumlah plafond kredit sesuai dengan ketentuan kredit mikro di Penerima Jaminan dan proses pengajuan penjaminannya dilakukan secara otomatis bersyarat (Conditional Automatic Cover/CAC).</p>
+                                    <p>Penjaminan Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan Modal Kerja dan/atau investasi dalam rangka peningkatan dan pengembangan usaha Produktif, yang jumlah plafond kredit sesuai dengan ketentuan kredit mikro di Penerima Jaminan dan proses pengajuan penjaminannya dilakukan secara otomatis bersyarat (Conditional Automatic Cover/CAC).</p>
                                     <p style="color: #0C519D; font-weight: bold">Berikut Merupakan Penjelasan Skema Penjaminan: </p>
                                     <ul style="list-style-type:disc; margin-left: 20px">
                                         <li>
@@ -168,7 +168,7 @@
                                     <p></p>
                                     <p>Sumber: Jamkrindo</p>
                                     <p style="color: #0C519D; font-weight: bold">Cara Mendaftar</p>
-                                    <p>Lengkapi seluruh dokumen persyaratan serta surat permohonan lalu kirim ke kantor kami. Atau bisa mengirimnya melalui email kami di <a href="mailto:focusinservindo@gmail.com?subject=Permohonan Pembiayaan [Jenis Produk/Layanan]">focusinservindo@gmail.com</a></p>
+                                    <p>Lengkapi seluruh dokumen persyaratan serta surat permohonan lalu kirim ke kantor kami. Atau bisa mengirimnya melalui email kami di <a href="mailto:focusinservindo@gmail.com?subject=Permohonan Penjaminan Pembiayaan [Jenis Produk/Layanan]">focusinservindo@gmail.com</a></p>
                                     <p></p>
                                     <p>Jika ada pertanyaan atau informasi lebih lanjut silahkan <a href="/layanan-pelanggan" style="font-weight: bold">Hubungi Kami</a></p>
                                 </div>

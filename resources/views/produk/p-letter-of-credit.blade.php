@@ -22,7 +22,7 @@
         <h1>Produk & Layanan</h1>
         <div class="link-breadcrumb">
             <a href="/" class="active">Beranda</a>
-            <a href="/produk">Produk & Layanan / </a>Pembiayaan Pemilikan Rumah dengan Fasilitas Likuiditas Pembiayaan Rumah (FLPP)</div>
+            <a href="/produk">Produk & Layanan / </a>Letter of Credit (L/C)</div>
     </div>
 </section>
 <!-- End Breadcumb Area -->
@@ -59,7 +59,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/1/pembiayaan-umum">
-                                                Pembiayaan Umum
+                                                Penjaminan Pembiayaan Umum
                                             </a></p>
                                     </div>
                                 </div>
@@ -73,7 +73,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/3/pembiayaan-mikro">
-                                                Pembiayaan Mikro
+                                                Penjaminan Pembiayaan Mikro
                                             </a></p>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/2/pembiayaan-multiguna">
-                                                Pembiayaan Multiguna
+                                                Penjaminan Pembiayaan Multiguna
                                             </a></p>
                                     </div>
                                 </div>
@@ -101,7 +101,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
-                                                Pembiayaan Konstruksi & Pengadaan Barang/Jasa
+                                                Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa
                                             </a></p>
                                     </div>
                                 </div>
@@ -150,27 +150,47 @@
                                 <img src="{{asset('assets/img/produk/7.jpg')}}" alt="" />
                             </div>
                             <div class="post-information">
-                                <h2 style="font-family: Raleway; color: #0C519D";>Pembiayaan Pemilikan Rumah dengan Fasilitas Likuiditas Pembiayaan Rumah (FLPP)</h2>
+                                <h2 style="font-family: Raleway; color: #0C519D";>Letter of Credit (L/C)</h2>
                                 <div class="entry-meta">
                                     <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk</a></span>
                                     <span><i class="fa fa-clock-o"></i> Jum'at, 28 Desember 2018</span>
                                 </div>
                                 <div class="entry-content">
-                                    <p>Pembiayaan Pemilikan Rumah dengan Fasilitas Likuiditas Pembiayaan Rumah (FLPP) adalah Penjaminan atas pembiayaan dengan
-                                        kementrian perumahan rakyat dengan suku bunga rendah,
-                                        cicilan ringan dan tetap sepanjang waktu pembiayaan yang
-                                        diperuntukan bagi Masyarakat Berpenghasilan Rendah (MBR).
+                                    <p>Letter of Credit (L/C) merupakan suatu janji yang pasti dari issuing bank yang bersifat irrevocable untuk melakukan pembayaran kepada pihak penerima (beneficiary) atas presentasi dokumen yang sesuai (complying presentation) dengan syarat dan kondisi LC.
                                     </p>
+                                    <p>Surat Kredit Berdokumen Dalam Negeri (SKBDN) atau sering disebut LC local, adalah instrument yang diterbitkan oleh bank (Issuing Bank), atas permintaan Applicant yang berisi janji bank untuk membayar sejumlah uang kepada Beneficiary apabila Issuing Bank menerima dokumen yang sesuai dengan syarat SKBDN. SKBDN dipergunakan untuk mendukung transaksi perdagangan di dalam negeri.
+                                    </p>
+                                    <p>Perusahaan Penjaminan/Perusahaan Asuransi bukan sebagai penalang dana atas L/C & SKBDN.
+                                        Perusahaan Penjaminan/Perusahaan Asuransi menjamin ganti rugi atas wanprestasi pembayaran saat jatuh tempo Penerbitan Kontra L/C dan SKBDN menggunakan fasilitas
+                                    Non Cash Loan Perusahaan Penjaminan/Perusahaan Asuransi di Bank. Atas hal tersebut Applicant dikenakan Service Charge.</p>
                                     <p></p>
-                                    <p style="color: #0C519D; font-weight: bold">Risiko yang dijamin:</p>
-                                    <ul style="list-style-type:disc; margin-left: 20px">
-                                        <li>Pembiayaan Macet</li>
-                                        <li>Risiko Kebakaran</li>
-                                        <li>Risiko Kematian (Jiwa)</li>
+                                    <p style="color: #0C519D; font-weight: bold">Penerbitan Kontra L/C & SKBDN:</p>
+                                    <ul style="list-style-type:decimal; margin-left: 20px">
+                                        <li>Applicant membuat kontrak dengan beneficiary</li>
+                                        <li>Appilcant mengajukan permohonan kontra LC/SKBDN</li>
+                                        <li>Asuransi menerbitkan izin prinsip kepada Issuing Bank</li>
+                                        <li>Issuing Bank menerbitkan LC/SKBDN kepada Advising Bank</li>
+                                        <li>Issuing Bank memberikan copy LC/SKBDN kepada pihak asuransi</li>
+                                        <li>Asuransi menertibkan polis kepada Issuing Bank</li>
                                     </ul>
                                     <p></p>
+                                    <p style="color: #0C519D; font-weight: bold">Akseptasi Kontra L/C & SKBDN:</p>
+                                    <ul style="list-style-type:decimal; margin-left: 20px">
+                                        <li>Beneficiary mensubmit dokumen akseptasi sesuai yang tercantum pada LC/SKBDN</li>
+                                        <li>Advising Bank memberitahukan kepada pihak Issuing Bank bahwa telah terjadi akseptasi yang dilakukan oleh beneficiary</li>
+                                        <li>Applicant (dan kemudian diikuti oleh asuransi) menyetujui dokumen akseptasi kepada Issuing Bank</li>
+                                        <li>Issuing Bank melakukan pembayaran kepada pihak Advising Bank</li>
+                                        <li>Advising Bank menerima dan menyalurkan pembayaran kepada pihak Beneficiary</li>
+                                    </ul>
+                                    <p></p>
+                                    <p style="color: #0C519D; font-weight: bold">Timbulnya Hak Klaim:</p>
+                                    <p>Timbulnya hak Penerima Penjaminan (Bank) untuk menuntut pencairan Penjaminan LC / SKBDN
+                                        dalam hal Terjamin tidak dapat melunasi kewajiban atas fasilitas LC dan / atau SKBDN yang
+                                        telah dibuka oleh penerima Jaminan pada saat Jatuh Tempo
+                                    </p>
+                                    <p></p>
                                     <p style="color: #0C519D; font-weight: bold">Cara Mendaftar</p>
-                                    <p>Lengkapi seluruh dokumen persyaratan serta surat permohonan lalu kirim ke kantor kami. Atau bisa mengirimnya melalui email kami di <a href="mailto:focusinservindo@gmail.com?subject=Permohonan Pembiayaan [Jenis Produk/Layanan]">
+                                    <p>Lengkapi seluruh dokumen persyaratan serta surat permohonan lalu kirim ke kantor kami. Atau bisa mengirimnya melalui email kami di <a href="mailto:focusinservindo@gmail.com?subject=Permohonan Penjaminan Pembiayaan [Jenis Produk/Layanan]">
                                             focusinservindo@gmail.com</a>.</p>
                                     <p></p>
                                     <p>Jika ada pertanyaan atau informasi lebih lanjut silahkan <a href="/layanan-pelanggan" style="font-weight: bold">Hubungi Kami</a>.</p>

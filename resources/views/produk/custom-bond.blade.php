@@ -60,7 +60,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/1/pembiayaan-umum">
-                                                Pembiayaan Umum
+                                                Penjaminan Pembiayaan Umum
                                             </a></p>
                                     </div>
                                 </div>
@@ -74,7 +74,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/3/pembiayaan-mikro">
-                                                Pembiayaan Mikro
+                                                Penjaminan Pembiayaan Mikro
                                             </a></p>
                                     </div>
                                 </div>
@@ -88,7 +88,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/2/pembiayaan-multiguna">
-                                                Pembiayaan Multiguna
+                                                Penjaminan Pembiayaan Multiguna
                                             </a></p>
                                     </div>
                                 </div>
@@ -102,7 +102,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
-                                                Pembiayaan Konstruksi & Pengadaan Barang/Jasa
+                                                Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa
                                             </a></p>
                                     </div>
                                 </div>
@@ -123,13 +123,13 @@
                                 <!-- End single post -->
                                 <div class="recent-single-post">
                                     <div class="post-img">
-                                        <a href="/produk/detail/7/pembiayaan-pemilikan-rumah">
+                                        <a href="/produk/detail/7/letter-of-credit">
                                             <img src="{{asset('assets/img/produk/7.jpg')}}" alt="">
                                         </a>
                                     </div>
                                     <div class="pst-content">
-                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/7/pembiayaan-pemilikan-rumah">
-                                                Pembiayaan Pemilikan Rumah Dengan FLPP
+                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/7/letter-of-credit">
+                                                Letter of Credit (L/C)
                                             </a></p>
                                     </div>
                                 </div>
@@ -186,7 +186,7 @@
                                         <p>Pungutan negara yang tertera dalam Surat Pemberitahuan Kekurangan Pembayaran Bea Masuk, yang disingkat SPKPBM, dalam hal penagihan Bea Cukai kepada Importir/PPJK yang salah dalam memberitahukan Nilai Pabean, Jenis dan/atau jumlah barang dalam PIB yang mengakibatkan kekurangan pembayaran Bea Masuk.</p>
                                     </ul>
                                     <p style="color: #0C519D; font-weight: bold">Cara Mendaftar</p>
-                                    <p>Lengkapi seluruh dokumen persyaratan serta surat permohonan lalu kirim ke kantor kami. Atau bisa mengirimnya melalui email kami di <a href="mailto:focusinservindo@gmail.com?subject=Permohonan Pembiayaan [Jenis Produk/Layanan]">focusinservindo@gmail.com</a></p>
+                                    <p>Lengkapi seluruh dokumen persyaratan serta surat permohonan lalu kirim ke kantor kami. Atau bisa mengirimnya melalui email kami di <a href="mailto:focusinservindo@gmail.com?subject=Permohonan Penjaminan Pembiayaan [Jenis Produk/Layanan]">focusinservindo@gmail.com</a></p>
                                     <p></p>
                                     <p>Jika ada pertanyaan atau informasi lebih lanjut silahkan <a href="/layanan-pelanggan" style="font-weight: bold">Hubungi Kami</a></p>
                                 </div>

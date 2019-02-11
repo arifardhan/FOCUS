@@ -39,14 +39,14 @@
                     <div class="single-blog">
                         <div class="blog-text">
                             <h4 style="margin-bottom: 0px">
-                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">Pembiayaan Konstruksi & Pengadaan Barang Jasa</a>
+                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">Penjaminan Pembiayaan Konstruksi & Pengadaan Barang Jasa</a>
                             </h4>
                             <div class="blog-meta" style="margin-bottom: 15px">
                                 <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk </a></span>
                                 <span>&nbsp; <i class="fa fa-clock-o"></i>Jum'at, 28 Desember 2018</span>
                             </div>
                             <p>
-                                Pembiayaan Konstruksi & Pengadaan Barang/Jasa adalah Penjaminan/Pembiayaan atas Kredit yang diberikan oleh Penerima Jaminan kepada Terjamin untuk keperluan tambahan Modal Kerja usaha jasa Konstruksi...
+                                Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa adalah Penjaminan/Pembiayaan atas Kredit yang diberikan oleh Penerima Jaminan kepada Terjamin untuk keperluan tambahan Modal Kerja usaha jasa Konstruksi...
                             </p>
                             <span>
                                 <a href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa" class="ready-btn">Selengkapnya</a>

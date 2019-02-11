@@ -39,14 +39,14 @@
                     <div class="single-blog">
                         <div class="blog-text">
                             <h4 style="margin-bottom: 0px">
-                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/1/pembiayaan-umum">Pembiayaan Umum</a>
+                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/1/pembiayaan-umum">Penjaminan Pembiayaan Umum</a>
                             </h4>
                             <div class="blog-meta" style="margin-bottom: 15px">
                                 <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk </a></span>
                                 <span>&nbsp; <i class="fa fa-clock-o"></i>Jum'at, 28 Desember 2018</span>
                             </div>
                             <p>
-                                Pembiayaan Umum adalah Penjaminan Pembiayaan yang diajukan untuk mendukung kelancaran kegiatan Usaha/Proyek atau Kegiatan Investasi yang dilakukan oleh perorangan...</p>
+                                Penjaminan Pembiayaan Umum adalah Penjaminan Pembiayaan yang diajukan untuk mendukung kelancaran kegiatan Usaha/Proyek atau Kegiatan Investasi yang dilakukan oleh perorangan...</p>
                             <span>
                                 <a href="/produk/detail/1/pembiayaan-umum" class="ready-btn">Selengkapnya</a>
                             </span>
