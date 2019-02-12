@@ -17,7 +17,7 @@
 <!-- header end -->
 
 <!-- Start Breadcumb Area -->
-<section class="head-breadcrumb" style="background-image:linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('{{asset('assets/img/breadcumb/1.jpg')}}');">
+<section class="head-breadcrumb" style="background-image:linear-gradient( rgb(0, 0, 0), rgba(0, 0, 0, 0.4) ), url('{{asset('assets/img/breadcumb/1.jpg')}}');">
     <div class="container">
         <h1>Visi & Misi</h1>
         <div class="link-breadcrumb">

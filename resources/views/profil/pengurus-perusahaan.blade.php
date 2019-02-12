@@ -25,7 +25,7 @@
 <!-- header end -->
 
 <!-- Start Breadcumb Area -->
-<section class="head-breadcrumb" style="background-image:linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('{{asset('assets/img/breadcumb/1.jpg')}}');">
+<section class="head-breadcrumb" style="background-image:linear-gradient( rgb(0, 0, 0), rgba(0, 0, 0, 0.4) ), url('{{asset('assets/img/breadcumb/1.jpg')}}');">
     <div class="container">
         <h1>Pengurus Perusahaan</h1>
         <div class="link-breadcrumb">
@@ -173,7 +173,7 @@
                             </div>
                         </div>
                         <div class="team-content text-center">
-                            <h4>Firdaus Fahmi</h4>
+                            <h4>Syaepudin</h4>
                             <p>Asisten Manager</p>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
                     <div class="single-team-member2">
                         <div class="team-img">
                             <a href="#">
-                                <img src="{{asset('assets/img/team/1.jpg')}}" alt="">
+                                <img src="{{asset('assets/img/team/5.jpg')}}" alt="">
                             </a>
                             <div class="team-social-icon text-center">
                                 <ul>
@@ -218,7 +218,7 @@
                     <div class="single-team-member2">
                         <div class="team-img">
                             <a href="#">
-                                <img src="{{asset('assets/img/team/2.jpg')}}" alt="">
+                                <img src="{{asset('assets/img/team/6.jpg')}}" alt="">
                             </a>
                             <div class="team-social-icon text-center">
                                 <ul>
@@ -251,7 +251,7 @@
                     <div class="single-team-member2">
                         <div class="team-img">
                             <a href="#">
-                                <img src="{{asset('assets/img/team/3.jpg')}}" alt="">
+                                <img src="{{asset('assets/img/team/7.jpg')}}" alt="">
                             </a>
                             <div class="team-social-icon text-center">
                                 <ul>
@@ -284,7 +284,7 @@
                     <div class="single-team-member2">
                         <div class="team-img">
                             <a href="#">
-                                <img src="{{asset('assets/img/team/4.jpg')}}" alt="">
+                                <img src="{{asset('assets/img/team/8.jpg')}}" alt="">
                             </a>
                             <div class="team-social-icon text-center">
                                 <ul>
@@ -307,7 +307,7 @@
                             </div>
                         </div>
                         <div class="team-content text-center">
-                            <h4>Syaepudin</h4>
+                            <h4>Taefur</h4>
                             <p>Administrasi Keuangan</p>
                         </div>
                     </div>
