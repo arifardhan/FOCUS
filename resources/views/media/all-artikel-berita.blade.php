@@ -55,23 +55,23 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-blog">
                             <div class="single-blog-img">
-                                <a href="/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn">
-                                    <img src="{{asset('assets/img/blog/1.jpg')}}" alt="">
+                                <a href="/media/artikel-berita/read/05/terkait-uu-penjaminan-ini-sikap-aaui">
+                                    <img src="{{asset('assets/img/artikel-berita/5.jpg')}}" alt="">
                                 </a>
                             </div>
                             <div class="blog-meta">
                                 <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/media/artikel-berita">Artikel & Berita </a></span>
-                                <span>&nbsp; <i class="fa fa-clock-o"></i>Kamis, 20 Desember 2018 15:03</span>
+                                <span>&nbsp; <i class="fa fa-clock-o"></i>Selasa, 12 Juni 2018 19:56 &nbsp</span>
+                                <span><i class="fa fa-user"></i> <a href="https://finansial.bisnis.com">Azizah Nur Alfi</a></span>
                             </div>
                             <div class="blog-text">
                                 <h4>
-                                    <a style="font-family: Raleway; color: #0C519D;" href="/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn">(Berita) Jelang 2019, Focus Perkuat Sinergi Berkelanjutan dengan BTN</a>
+                                    <a style="font-family: Raleway; color: #0C519D;" href="/media/artikel-berita/read/05/terkait-uu-penjaminan-ini-sikap-aaui">(Berita) Terkait UU Penjaminan, Ini Sikap AAUI</a>
                                 </h4>
-                                <p>
-                                    Jakarta- Perum Jamkrindo melakukan  kerja sama dengan PT Bank Tabungan Negara (Persero) Tbk dalam rangka meningkatkan kerjasama yang telah ada dalam hal layanan perbankan dan penjaminan kredit. Direktur Utama Randi Anto mengungkapkan, kerja sama ini direalisasikan dengan penandatangan nota kesepahaman dan perjanjian kerja sama... </p>
+                                <p><strong>Bisnis.com,</strong> JAKARTA - Dengan telah ditetapkannya UU No.1/2016 tentang Penjaminan, menimbulkan penafsiran di kalangan masyarakat dan industri yang seolah-olah produk suretyship dan asuransi kredit tidak dapat dijalankan lagi oleh perusahaan perasuransian setelah 2019. Oleh karena itu, AAUI perlu meluruskan persepsi ini...</p>
                             </div>
                             <span>
-										<a href="/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn" class="ready-btn">Selengkapnya</a>
+										<a href="/media/artikel-berita/read/05/terkait-uu-penjaminan-ini-sikap-aaui" class="ready-btn">Selengkapnya</a>
 									</span>
                         </div>
                     </div>
@@ -80,21 +80,21 @@
                                 <div class="single-blog">
                                     <div class="single-blog-img">
                                         <a href="#">
-                                            <img src="{{asset('assets/img/blog/2.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/artikel-berita/4.jpg')}}" alt="">
                                         </a>
                                     </div>
                                     <div class="blog-meta">
                                         <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/media/artikel-berita">Artikel & Berita </a></span>
-                                        <span>&nbsp; <i class="fa fa-clock-o"></i>Selasa, 18 Desember 2018 11:08</span>
+                                        <span>&nbsp; <i class="fa fa-clock-o"></i>Sabtu, 28 April 2018 12:30 &nbsp </span>
+                                        <span><i class="fa fa-user"></i> <a href="http://www.baliekbis.com">Bali Ekbis</a></span>
                                     </div>
                                     <div class="blog-text">
                                         <h4>
-                                            <a style="font-family: Raleway; color: #0C519D;" href="#">(Berita) FOCUS-KODIT Bahas Penjaminan Bisnis Start Up</a>
+                                            <a style="font-family: Raleway; color: #0C519D;" href="/media/artikel-berita/read/04/audiensi-dengan-dpr-ri-asippindo-harapkan-uu-penjaminan-bisa-diterapkan-tahun-2019">(Berita) Audiensi dengan DPR-RI, Asippindo Harapkan UU Penjaminan Bisa Diterapkan Tahun 2019</a>
                                         </h4>
-                                        <p>
-                                            Yogyakarta- Perum Jamkrindo menerima kunjungan sejumah delegasi Korea Credit Guarantee Fund atau KODIT dalam pertemuan Working Level Council (WLC) ke 4 tahun 2018 yang diselenggarakan di Yogyakarta pada tanggal 11-14 Desember 2018. Salah satu bahasan adalah menumbuhkan penjaminan kredit untuk bisnis rintisan (start-up) di kedua negara dan industry 4.0...</div>
-                                    <span>
-										<a href="#" class="ready-btn">Selengkapnya</a>
+                                        <p><strong>Baliekbis.com - </strong> Asippindo (Asosiasi Perusahaan Penjaminan Indonesia) berharap dukungan dari DPR-RI agar UU Nomor 1 Tahun 2016 tentang Penjaminan bisa diterapkan pada 15 Januari 2019 mendatang. Demikian terungkap dalam audiensi Asippindo dengan Anggota DPR-RI, Sabtu (28/4) di Warung Mina Jalan Padang Sambian Badung...</p>
+                                        <span>
+										<a href="/media/artikel-berita/read/04/audiensi-dengan-dpr-ri-asippindo-harapkan-uu-penjaminan-bisa-diterapkan-tahun-2019" class="ready-btn">Selengkapnya</a>
 									</span>
                                 </div>
                             </div>

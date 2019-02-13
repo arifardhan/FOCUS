@@ -39,27 +39,25 @@
                     <div class="single-blog">
                         <div class="blog-text">
                             <h4 style="margin-bottom: 0px">
-                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="#">(Artikel) 5 Hal yang Harus Anda Pahami tentang Asuransi Keuangan Surety Bond</a>
+                                <a style="font-family: Raleway; color: #0C519D; font-size: 32px" href="/produk/detail/8/surety-bond">Surety Bond</a>
                             </h4>
                             <div class="blog-meta" style="margin-bottom: 15px">
-                                <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/media/artikel-berita">Artikel & Berita </a></span>
-                                <span>&nbsp; <i class="fa fa-clock-o"></i>Rabu, 20 Desember 2017 06:23 &nbsp </span>
-                                <span><i class="fa fa-user"></i> <a href="https://www.jasindo.co.id">Jasindo</a></span>
+                                <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk </a></span>
+                                <span>&nbsp; <i class="fa fa-clock-o"></i>Jum'at, 28 Desember 2018</span>
                             </div>
                             <p>
-                                Dalam proses tender, setiap perusahaan peserta tender diwajibkan memiliki penjamin dalam bentuk surety bond
-                                yang dikeluarkan oleh perusahaan asuransi. Selain untuk menjamin kepastian dan kepercayaan bagi masing-masing pihak,
-                                asuransi keuangan atau surety bond berfungsi sebagai upaya pengambilalihan potensi risiko kerugian yang mungkin dapat dialami
-                                oleh salah satu pihak karena pelanggaran kontrak yang telah disepakati. Selain penjelasan singkat di atas, berikut ini
-                                serba-serbi asuransi keuangan yang perlu Anda ketahui...
+                                Surety Bond adalah suatu bentuk perjanjian antara dua pihak, dimana pihak
+                                yang satu ialah Pemberi Jaminan (Surety) yang memberi jaminan untuk Pihak
+                                Kedua yaitu Principal (Penyedia Jasa) untuk kepentingan  Oblegee (Pemilik Proyek),
+                                bahwa apabila pihak yang dijamin (Principal) yang oleh karena...
                             </p>
+                        </div>
                             <span>
-                                <a href="/media/artikel-berita/read/03/5-hal-yang-harus-anda-pahami-tentang-asuransi-keuangan-surety-bond" class="ready-btn">Selengkapnya</a>
+                                <a href="/produk/detail/8/surety-bond" class="ready-btn">Selengkapnya</a>
                             </span>
-                    </div>
+                        </div>
                 </div>
             </div>
-        </div>
             <!-- Start Widget Area -->
             <div class="col-md-4">
                 <div class="widget">

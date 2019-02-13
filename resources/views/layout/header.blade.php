@@ -39,6 +39,7 @@
                                     <li><a href='/produk/detail/5/custom-bond' >Custom Bond</a></li>
                                     <li><a href='/produk/detail/6/kontra-bank-garansi' >Kontra Bank Garansi</a></li>
                                     <li><a href='/produk/detail/7/letter-of-credit' >Letter of Credit (L/C)</a></li>
+                                    <li><a href='/produk/detail/8/surety-bond' >Surety Bond</a></li>
                                 </ul>
                             </li>
                             <li>

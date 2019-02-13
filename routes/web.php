@@ -70,21 +70,28 @@ Route::get('/produk/detail/3/pembiayaan-mikro', function () {
 Route::get('/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa', function () {
     return view('produk/p-konstruksi-b-j');
 });
-//Produk-3
+//Produk-4
 /*------------------------------------------*/
 Route::get('/produk/detail/5/custom-bond', function () {
     return view('produk/custom-bond');
 });
-//Produk-4
+//Produk-5
 /*------------------------------------------*/
 Route::get('/produk/detail/6/kontra-bank-garansi', function () {
     return view('produk/kontra-bank-garansi');
 });
-//Produk-5
+//Produk-6
 /*------------------------------------------*/
 Route::get('/produk/detail/7/letter-of-credit', function () {
     return view('produk/p-letter-of-credit');
 });
+//Produk-7
+/*------------------------------------------*/
+Route::get('/produk/detail/8/surety-bond', function () {
+    return view('produk/surety-bond');
+});
+//Produk-8
+
 
 /*------------------------------------------*/
 //Mitra
@@ -102,16 +109,22 @@ Route::get('/media/artikel-berita', function () {
     return view('media/all-artikel-berita');
 });
 /*------------------------------------------*/
-//ceritanya 05
+//artikel-berita 05
 /*------------------------------------------*/
-Route::get('/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn', function () {
-    return view('media/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn');
+Route::get('/media/artikel-berita/read/05/terkait-uu-penjaminan-ini-sikap-aaui', function () {
+    return view('media/read/05/terkait-uu-penjaminan-ini-sikap-aaui');
 });
 /*------------------------------------------*/
-//ceritanya 03
+//artikel-berita 04
 /*------------------------------------------*/
-Route::get('/media/artikel-berita/read/03/tentang-industri-jasa-keuangan', function () {
-    return view('media/read/03/tentang-industri-jasa-keuangan');
+Route::get('/media/artikel-berita/read/04/audiensi-dengan-dpr-ri-asippindo-harapkan-uu-penjaminan-bisa-diterapkan-tahun-2019', function () {
+    return view('media/read/04/audiensi-dengan-dpr-ri-asippindo-harapkan-uu-penjaminan-bisa-diterapkan-tahun-2019');
+});
+/*------------------------------------------*//*------------------------------------------*/
+//artikel-berita 03
+/*------------------------------------------*/
+Route::get('/media/artikel-berita/read/03/5-hal-yang-harus-anda-pahami-tentang-asuransi-keuangan-surety-bond', function () {
+    return view('media/read/03/5-hal-yang-harus-anda-pahami-tentang-asuransi-keuangan-surety-bond');
 });
 /*------------------------------------------*/
 
@@ -163,7 +176,9 @@ Route::any('/cari',function(){
         return view('/search/search-kontra-bank-garansi', ['name' => $cari]);
     else if ($cari == 'letter of credit')
         return view ('/search/search-letter-of-credit', ['name' => $cari]);
-    else if ($cari == 'tentang industri jasa keuangan')
+    else if ($cari == 'surety bond')
+        return view ('/search/search-surety-bond', ['name' => $cari]);
+    else if ($cari == 'tentang asuransi surety bond')
         return view ('/search/search-artikel', ['name' => $cari]);
     else
         return view ('/search/tidak-ditemukan', ['name' => $cari]);

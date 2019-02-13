@@ -58,7 +58,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/1/pembiayaan-umum">
-                                                Pembiayaan Umum
+                                                Penjaminan Pembiayaan Umum
                                             </a></p>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/3/pembiayaan-mikro">
-                                                Pembiayaan Mikro
+                                                Penjaminan Pembiayaan Mikro
                                             </a></p>
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/2/pembiayaan-multiguna">
-                                                Pembiayaan Multiguna
+                                                Penjaminan Pembiayaan Multiguna
                                             </a></p>
                                     </div>
                                 </div>
@@ -100,7 +100,7 @@
                                     </div>
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
-                                                Pembiayaan Konstruksi & Pengadaan Barang/Jasa
+                                                Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa
                                             </a></p>
                                     </div>
                                 </div>
@@ -128,6 +128,20 @@
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/7/letter-of-credit">
                                                 Letter of Credit (L/C)
+                                            </a></p>
+                                    </div>
+                                </div>
+                                <!-- End single post -->
+                                <!-- start single post -->
+                                <div class="recent-single-post">
+                                    <div class="post-img">
+                                        <a href="/produk/detail/8/surety-bond">
+                                            <img src="{{asset('assets/img/produk/8.jpg')}}" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="pst-content">
+                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/8/surety-bond">
+                                                Surety Bond
                                             </a></p>
                                     </div>
                                 </div>

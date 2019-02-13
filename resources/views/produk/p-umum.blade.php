@@ -67,7 +67,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/3/pembiayaan-mikro">
-                                            <img src="{{asset('assets/img/blog/3.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/produk/3.jpg')}}" alt="">
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -128,6 +128,20 @@
                                     <div class="pst-content">
                                         <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/7/letter-of-credit">
                                                 Letter of Credit (L/C)
+                                            </a></p>
+                                    </div>
+                                </div>
+                                <!-- End single post -->
+                                <!-- start single post -->
+                                <div class="recent-single-post">
+                                    <div class="post-img">
+                                        <a href="/produk/detail/8/surety-bond">
+                                            <img src="{{asset('assets/img/produk/8.jpg')}}" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="pst-content">
+                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/8/surety-bond">
+                                                Surety Bond
                                             </a></p>
                                     </div>
                                 </div>

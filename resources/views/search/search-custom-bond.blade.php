@@ -46,7 +46,9 @@
                                     <span>&nbsp; <i class="fa fa-clock-o"></i>Jum'at, 28 Desember 2018</span>
                                 </div>
                                 <p>
-                                    Custom Bond adalah jenis penjaminan yang diberikan oleh Perusahaan Asuransi Penjamin (Surety Company), untuk kepentingan pihak Terjamin (Principal) yang terikat untuk memenuhi...</div>
+                                    Custom Bond adalah jenis penjaminan yang diberikan oleh Perusahaan Asuransi Penjamin (Surety Company), untuk kepentingan pihak Terjamin (Principal) yang terikat untuk memenuhi...
+                                </p>
+                            </div>
                             <span>
                                 <a href="/produk/detail/5/custom-bond" class="ready-btn">Selengkapnya</a>
                             </span>

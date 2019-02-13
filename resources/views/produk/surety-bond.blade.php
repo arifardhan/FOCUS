@@ -19,13 +19,15 @@
 <!-- Start Breadcumb Area -->
 <section class="head-breadcrumb" style="background-image:linear-gradient( rgb(0, 0, 0), rgba(0, 0, 0, 0.4) ), url('{{asset('assets/img/breadcumb/1.jpg')}}');">
     <div class="container">
-        <h1>Produk</h1>
+        <h1>Produk & Layanan</h1>
         <div class="link-breadcrumb">
             <a href="/" class="active">Beranda</a>
-            <a href="/produk">Produk & Layanan / </a>Penjaminan Pembiayaan Mikro</div>
+            <a href="/produk">Produk & Layanan / </a>Surety Bond</div>
     </div>
 </section>
 <!-- End Breadcumb Area -->
+
+
 <div class="blog-page area-padding">
     <div class="container">
         <div class="row">
@@ -66,13 +68,13 @@
                                 <!-- start single post -->
                                 <div class="recent-single-post">
                                     <div class="post-img">
-                                        <a href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
-                                            <img src="{{asset('assets/img/produk/4.jpg')}}" alt="">
+                                        <a href="/produk/detail/3/pembiayaan-mikro">
+                                            <img src="{{asset('assets/img/produk/3.jpg')}}" alt="">
                                         </a>
                                     </div>
                                     <div class="pst-content">
-                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
-                                                Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa
+                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/3/pembiayaan-mikro">
+                                                Penjaminan Pembiayaan Mikro
                                             </a></p>
                                     </div>
                                 </div>
@@ -94,13 +96,13 @@
                                 <!-- start single post -->
                                 <div class="recent-single-post">
                                     <div class="post-img">
-                                        <a href="/produk/detail/5/custom-bond">
-                                            <img src="{{asset('assets/img/produk/5.jpg')}}" alt="">
+                                        <a href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
+                                            <img src="{{asset('assets/img/produk/4.jpg')}}" alt="">
                                         </a>
                                     </div>
                                     <div class="pst-content">
-                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/5/custom-bond">
-                                                Custom Bond
+                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
+                                                Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa
                                             </a></p>
                                     </div>
                                 </div>
@@ -135,13 +137,13 @@
                                 <!-- start single post -->
                                 <div class="recent-single-post">
                                     <div class="post-img">
-                                        <a href="/produk/detail/8/surety-bond">
-                                            <img src="{{asset('assets/img/produk/8.jpg')}}" alt="">
+                                        <a href="/produk/detail/5/custom-bond">
+                                            <img src="{{asset('assets/img/produk/5.jpg')}}" alt="">
                                         </a>
                                     </div>
                                     <div class="pst-content">
-                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/8/surety-bond">
-                                                Surety Bond
+                                        <p><a style="font-family: Raleway; color: #0C519D; font-size: 20px; font-weight: 700" href="/produk/detail/5/custom-bond">
+                                                Custom Bond
                                             </a></p>
                                     </div>
                                 </div>
@@ -160,27 +162,33 @@
                         <!-- single-blog start -->
                         <article class="blog-post-wrapper">
                             <div class="post-thumbnail">
-                                <img src="{{asset('assets/img/produk/3.jpg')}}" alt="" />
+                                <img src="{{asset('assets/img/produk/8.jpg')}}" alt="" />
                             </div>
                             <div class="post-information">
-                                <h2 style="font-family: Raleway; color: #0C519D";>Penjaminan Pembiayaan Mikro</h2>
+                                <h2 style="font-family: Raleway; color: #0C519D";>Surety Bond</h2>
                                 <div class="entry-meta">
                                     <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk</a></span>
                                     <span><i class="fa fa-clock-o"></i> Jum'at, 28 Desember 2018</span>
                                 </div>
                                 <div class="entry-content">
-                                    <p>Penjaminan Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan Modal Kerja dan/atau investasi dalam rangka peningkatan dan pengembangan usaha Produktif, yang jumlah plafond kredit sesuai dengan ketentuan kredit mikro di Penerima Jaminan dan proses pengajuan penjaminannya dilakukan secara otomatis bersyarat (Conditional Automatic Cover/CAC).</p>
-                                    <p style="color: #0C519D; font-weight: bold">Berikut Merupakan Penjelasan Skema Penjaminan: </p>
+                                    <p>Surety Bond adalah suatu bentuk perjanjian antara dua pihak, dimana pihak
+                                        yang satu ialah Pemberi Jaminan (Surety) yang memberi jaminan untuk Pihak
+                                        Kedua yaitu Principal (Penyedia Jasa) untuk kepentingan  Oblegee (Pemilik Proyek),
+                                        bahwa apabila pihak yang dijamin (Principal) yang oleh karena lalai atau gagal
+                                        melaksanakan kewajibannya menyelesaikan pekerjaan yang dijanjikan kepada Oblegee,
+                                        maka Pihak Surety sebagai penjamin akan menggantikan kedudukan pihak yang dijamin
+                                        untuk membayar ganti rugi maksimal sampai dengan batas jumlah jaminan yang diberikan Surety.</p>
+                                    <p style="color: #0C519D; font-weight: bold">Jenis Penjaminan Surety Bond</p>
                                     <ul style="list-style-type:disc; margin-left: 20px">
-                                        <li>
-                                            <a href="{{asset('assets/uploads/file/skema/Skema-Penjaminan-CAC.pdf')}}">Conditional Automatic Cover (CAC)</a>
-                                        </li>
-                                        <li>
-                                            <a href="{{asset('assets/uploads/file/skema/Skema-Penjaminan-CBC.pdf')}}">Case By Case (CBC) </a>
-                                        </li>
+                                        <li>Penjaminan untuk Penawaran (Bid Bond)</li>
+                                        <li>Penjaminan Uang Muka (Jaminan Uang Muka)</li>
+                                        <li>Penjaminan Pelaksanaan (Advance Payment Bond)</li>
+                                        <li>Penjaminan Pemeliharaan (Maintenance Bond)</li>
+                                        <li>Penjaminan untuk Penyalur/Agen/Dealer/Depot Holeder (Swasta bonafide)</li>
                                     </ul>
-                                    <p></p>
-                                    <p>Sumber: Jamkrindo</p>
+                                    <p>
+
+                                    </p>
                                     <p style="color: #0C519D; font-weight: bold">Cara Mendaftar</p>
                                     <p>Lengkapi seluruh dokumen persyaratan serta surat permohonan lalu kirim ke kantor kami. Atau bisa mengirimnya melalui email kami di <a href="mailto:focusinservindo@gmail.com?subject=Permohonan Penjaminan Pembiayaan [Jenis Produk/Layanan]">focusinservindo@gmail.com</a></p>
                                     <p></p>
@@ -210,7 +218,6 @@
 
 <!-- Back to the top -->
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-
 @include('layout.library')
 </body>
 </html>

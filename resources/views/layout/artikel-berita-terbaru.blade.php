@@ -10,46 +10,46 @@
 <h3>Artikel & Berita Terbaru</h3>
 <div class="recent-single-post">
     <div class="post-img">
-        <a href="/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn">
-            <img src="{{asset('assets/img/blog/1.jpg')}}" alt="">
+        <a href="/media/artikel-berita/read/05/terkait-uu-penjaminan-ini-sikap-aaui">
+            <img src="{{asset('assets/img/artikel-berita/5.jpg')}}" alt="">
         </a>
     </div>
     <div class="pst-content">
         <p style="margin: 0 0 5px;">
-            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="/media/artikel-berita/read/05/jelang-2019-focus-perkuat-sinergi-berkelanjutan-dengan-btn">
-                (Berita) Jelang 2019, Focus Perkuat Sinergi Berkelanjutan dengan BTN
+            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="/media/artikel-berita/read/05/terkait-uu-penjaminan-ini-sikap-aaui">
+                (Berita) Terkait UU Penjaminan, Ini Sikap AAUI
             </a>
         </p>
-        <span style="font-size: 12px">Kamis, 20 Desember 2018 15:03</span>
+        <span style="font-size: 12px">Selasa, 12 Juni 2018 19:56</span>
     </div>
 </div>
 <div class="recent-single-post">
     <div class="post-img">
-        <a href="#">
-            <img src="{{asset('assets/img/blog/2.jpg')}}" alt="">
+        <a href="/media/artikel-berita/read/04/audiensi-dengan-dpr-ri-asippindo-harapkan-uu-penjaminan-bisa-diterapkan-tahun-2019">
+            <img src="{{asset('assets/img/artikel-berita/4.jpg')}}" alt="">
         </a>
     </div>
     <div class="pst-content">
         <p style="margin: 0 0 5px;">
-            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="#">
-                (Berita) FOCUS-KODIT Bahas Penjaminan Bisnis Start Up
+            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="/media/artikel-berita/read/04/audiensi-dengan-dpr-ri-asippindo-harapkan-uu-penjaminan-bisa-diterapkan-tahun-2019">
+                (Berita) Audiensi dengan DPR-RI, Asippindo Harapkan UU Penjaminan Bisa Diterapkan Tahun 2019
             </a>
         </p>
-        <span style="font-size: 12px">Selasa, 18 Desember 2018 11:08</span>
+        <span style="font-size: 12px">Sabtu, 28 April 2018 12:30</span>
     </div>
 </div>
 <div class="recent-single-post">
     <div class="post-img">
-        <a href="/media/artikel-berita/read/03/tentang-industri-jasa-keuangan">
-            <img src="{{asset('assets/img/blog/3.jpg')}}" alt="">
+        <a href="/media/artikel-berita/read/03/5-hal-yang-harus-anda-pahami-tentang-asuransi-keuangan-surety-bond">
+            <img src="{{asset('assets/img/artikel-berita/3.jpg')}}" alt="">
         </a>
     </div>
     <div class="pst-content">
         <p style="margin: 0 0 5px;">
-            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="/media/artikel-berita/read/03/tentang-industri-jasa-keuangan">
-                (Artikel) Tentang Industri Jasa Keuangan
+            <a style="font-family: Raleway; color: #0C519D; font-size: 16px; font-weight: 700" href="/media/artikel-berita/read/03/5-hal-yang-harus-anda-pahami-tentang-asuransi-keuangan-surety-bond">
+                (Artikel) 5 Hal yang Harus Anda Pahami tentang Asuransi Keuangan Surety Bond
             </a>
         </p>
-        <span style="font-size: 12px">Selasa, 18 Desember 2018 12:06</span>
+        <span style="font-size: 12px">Rabu, 20 Desember 2017 06:23</span>
     </div>
 </div>
