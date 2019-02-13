@@ -35,28 +35,29 @@
             <div class="awesome-project-content" style="position: relative; height: 636px;">
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
-                    <a href="/media/kegiatan/01/focus-gelar-acara-jalan-sehat-dalam-rangka-menyambut-hut-ke-73-kemerdekaan-ri-di-gorontalo">
+                    <a href="/media/kegiatan/01/focus-menggelar-acara-2nd-Anniversary">
                         <img src="{{asset('assets/img/kegiatan/1.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
-                        <a href="/media/kegiatan/01/focus-gelar-acara-jalan-sehat-dalam-rangka-menyambut-hut-ke-73-kemerdekaan-ri-di-gorontalo">
-                            FOCUS Gelar Acara Jalan Sehat dalam Rangka menyambut HUT ke 73 Kemerdekaan RI di Gorontalo </a></h4>
+
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
+                        <a href="/media/kegiatan/01/focus-menggelar-acara-2nd-Anniversary">
+                            FOCUS Menggelar Acara 2nd Anniversary</a></h4>
                 </div>
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
                     <a href="#"><img src="{{asset('assets/img/kegiatan/2.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
                         <a href="#">Donor Darah </a></h4>
                 </div>
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
-                    <a href="#"><img src="{{asset('assets/img/kegiatan/3.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
-                        <a href="#">FOCUS Gelar Upacara Peringatan HUT ke 73 Kemerdekaan RI di Gorontalo</a></h4>
+                    <a href="/media/kegiatan/02/focus-menerimaan-penghargaan-dari-askrindo"><img src="{{asset('assets/img/kegiatan/3.jpg')}}" alt=""></a>
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
+                        <a href="/media/kegiatan/02/focus-menerimaan-penghargaan-dari-askrindo">FOCUS Menerima Penghargaan dari Askrindo</a></h4>
                 </div>
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
                     <a href="#"><img src="{{asset('assets/img/kegiatan/4.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
                         <a href="#">Study Banding Business Excellence Best Practice</a></h4>
                 </div>
             </div>
@@ -64,25 +65,25 @@
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
                     <a href="#"><img src="{{asset('assets/img/kegiatan/5.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
                         <a href="#">Pemenang Lomba Foto Tematik</a></h4>
                 </div>
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
                     <a href="#"><img src="{{asset('assets/img/kegiatan/6.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
                         <a href="#">Turnamen Futsal FOCUS Cup 2018</a></h4>
                 </div>
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
                     <a href="#"><img src="{{asset('assets/img/kegiatan/7.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
                         <a href="#">Turnamen Billiard</a></h4>
                 </div>
                 <!-- single-awesome-project start -->
                 <div class="col-md-3 col-sm-3 col-xs-12 2016" style="position: absolute; left: 0px; top: 0px;">
                     <a href="#"><img src="{{asset('assets/img/kegiatan/8.jpg')}}" alt=""></a>
-                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px">
+                    <h4 style="font-size: 16px; font-family: 'Raleway'; color: #0C519D; margin-top: 10px; text-align:center">
                         <a href="#">Pertandingan Bowling untuk Direksi dan Karyawan</a></h4>
                 </div>
             </div>

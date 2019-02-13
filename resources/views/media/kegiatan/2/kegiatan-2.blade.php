@@ -22,32 +22,22 @@
         <h1>Kegiatan</h1>
         <div class="link-breadcrumb">
             <a href="/" class="active">Beranda</a>
-            Media / <a href="/media/kegiatan">Kegiatan</a>/ FOCUS Menggelar Acara 2nd Anniversary </div>
+            Media / <a href="/media/kegiatan">Kegiatan</a>/ FOCUS Menerima Penghargaan dari Askrindo </div>
     </div>
 </section>
 <!-- End Breadcumb Area -->
 <section class="content-video">
     <div class="video">
         <div class="container">
-            <h1 style="color:#ffffff; font-size: 24px"> FOCUS Menggelar Acara 2nd Anniversary</h1>
+            <h1 style="color:#ffffff; font-size: 24px"> FOCUS Menerima Penghargaan dari Askrindo</h1>
             <br>
             <div id="headline" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner" role="listbox">
-                    <div class="item">
-                        <img class="first-slide" src="{{asset('assets/img/kegiatan/detail1/1.jpg')}}" alt="">
-                    </div>
                     <div class="item active">
-                        <img class="first-slide" src="{{asset('assets/img/kegiatan/detail1/2.jpg')}}" alt="">
-                        <div class="carousel-caption">
-                        </div>
+                        <img class="first-slide" src="{{asset('assets/img/kegiatan/detail2/1.jpg')}}" alt="">
                     </div>
                     <div class="item">
-                        <img class="first-slide" src="{{asset('assets/img/kegiatan/detail1/3.jpg')}}" alt="">
-                        <div class="carousel-caption">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img class="first-slide" src="{{asset('assets/img/kegiatan/detail1/4.jpg')}}" alt="">
+                        <img class="first-slide" src="{{asset('assets/img/kegiatan/detail2/2.jpg')}}" alt="">
                         <div class="carousel-caption">
                         </div>
                     </div>

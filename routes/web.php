@@ -130,11 +130,23 @@ Route::get('/media/artikel-berita/read/03/5-hal-yang-harus-anda-pahami-tentang-a
 
 //kegiatan
 /*------------------------------------------*/
+//All Kegiatan
+/*------------------------------------------*/
 Route::get('/media/kegiatan', function () {
     return view('media/all-kegiatan');
 });
-Route::get('/media/kegiatan/01/focus-gelar-acara-jalan-sehat-dalam-rangka-menyambut-hut-ke-73-kemerdekaan-ri-di-gorontalo', function () {
+/*------------------------------------------*/
+//Kegiatan ke-1
+/*------------------------------------------*/
+Route::get('/media/kegiatan/01/focus-menggelar-acara-2nd-Anniversary', function () {
     return view('media/kegiatan/1/kegiatan-1');
+});
+/*------------------------------------------*/
+//Kegiatan ke-2
+/*------------------------------------------*/
+
+Route::get('/media/kegiatan/02/focus-menerimaan-penghargaan-dari-askrindo', function () {
+    return view('media/kegiatan/2/kegiatan-2');
 });
 
 /*------------------------------------------*/
