@@ -263,7 +263,7 @@
                                     <p>
                                         Pelayanan Focus sangat baik, cepat dan bisa diandalkan
                                     </p>
-                                    <h6>~Finance, PT. Citra Sari Makmur~</h6>
+                                    <h6>~CEO, PT. Citra Sari Makmur~</h6>
                                 </div>
                             </div>
                             <!-- End single item -->
@@ -272,7 +272,7 @@
                                     <p>
                                         Sangat senang, pelayanan yang baik dan dapat dipercaya
                                     </p>
-                                    <h6>~Marketing, PT. Delta Sumber Rezeki~</h6>
+                                    <h6>~CEO, PT. Delta Sumber Rezeki~</h6>
                                 </div>
                             </div>
                             <!-- End single item -->
@@ -281,7 +281,7 @@
                                     <p>
                                         Tingkatkan terus pelayanannya sehingga dapat terus menjadi agen terpercaya
                                     </p>
-                                    <h6>~Marketing, PT. Dimas Utama~</h6>
+                                    <h6>~General Manager, PT. Dimas Utama~</h6>
                                 </div>
                             </div>
                             <!-- End single item -->
