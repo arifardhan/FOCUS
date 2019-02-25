@@ -64,7 +64,7 @@
                             <p><span><a href="/sejarah-perusahaan">Profil Perusahaan</a></span></p>
                             <p><span><a href="/produk">Produk & Layanan</a></span></p>
                             <p><span><a href="/media/artikel-berita">Artikel & Berita</a></span></p>
-                            <p><span><a href="/mitra-perusahaan">Mitra</a></span></p>
+                            <p><span><a href="/mitra-kerja">Mitra</a></span></p>
                             <p><span><a href="/penghargaan">Penghargaan</a></span></p>
                         </div>
                     </div>

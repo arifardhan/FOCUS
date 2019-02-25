@@ -43,7 +43,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a class="page-scroll" href="/mitra-perusahaan">Mitra Kerja</a>
+                                <a class="page-scroll" href="/mitra-kerja">Mitra Kerja</a>
                             </li>
                             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<span class="caret"></span></a>
                                 <ul class="dropdown-menu" role="menu">

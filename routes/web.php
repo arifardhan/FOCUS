@@ -96,7 +96,7 @@ Route::get('/produk/detail/8/surety-bond', function () {
 /*------------------------------------------*/
 //Mitra
 /*------------------------------------------*/
-Route::get('/mitra-perusahaan', function () {
+Route::get('/mitra-kerja', function () {
     return view('mitra/mitra');
 });
 

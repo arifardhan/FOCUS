@@ -208,7 +208,7 @@
                             </div>
                         </div>
                         <div class="team-content text-center">
-                            <h4>Asep Us Us</h4>
+                            <h4 style="font-size: 18px;line-height: 26px;font-weight: 600;">Asep Rahmat Dahlan</h4>
                             <p>Dokumentasi & Distribusi</p>
                         </div>
                     </div>

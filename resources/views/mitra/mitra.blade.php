@@ -10,7 +10,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Mitra | FOCUS</title>
+    <title>Mitra Kerja | FOCUS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -31,10 +31,10 @@
 <!-- Start Breadcumb Area -->
 <section class="head-breadcrumb" style="background-image:linear-gradient( rgb(0, 0, 0), rgba(0, 0, 0, 0.4) ), url('{{asset('assets/img/breadcumb/1.jpg')}}');">
     <div class="container">
-        <h1>Mitra</h1>
+        <h1>Mitra Kerja</h1>
         <div class="link-breadcrumb">
             <a href="/" class="active">Beranda</a>
-            Mitra </div>
+            Mitra Kerja</div>
     </div>
 </section>
 <!-- End Breadcumb Area -->
