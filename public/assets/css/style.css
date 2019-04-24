@@ -264,7 +264,7 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: rgba(0, 0, 0, 0.40);
+  background: rgb(67, 94, 171);
   z-index: 9;
 }
 
@@ -314,7 +314,7 @@ div#preloader {
 }
 
 .main-menu ul.navbar-nav li a:hover {
-  color: #3EC1D5;
+  color: #FFA500;
 }
 
 .navbar {
@@ -1608,7 +1608,7 @@ div#preloader {
 --------------------------------*/
 
 .suscribe-area {
-  background: #3EC1D5; non-repeat: scroll 0 0;
+  background: rgb(67, 94, 171);
   padding: 15px 0;
 }
 
@@ -1630,7 +1630,7 @@ div#preloader {
 .sus-btn {
   background: #fff none repeat scroll 0 0;
   border: 2px solid #fff;
-  color: #3EC1D5;
+  color: rgb(67, 94, 171);
   display: inline-block;
   font-size: 16px;
   font-weight: 700;
@@ -1642,8 +1642,8 @@ div#preloader {
 }
 
 .sus-btn:hover {
-  background: rgb(67, 94, 171);  non-repeat: scroll 0 0;
-  border: 2px solid rgb(67, 94, 171);
+  background: #3EC1D5;
+  border: 2px solid #3EC1D5;
   color: #fff;
 }
 
