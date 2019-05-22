@@ -1428,6 +1428,7 @@ div#preloader {
 
 .testi-text p {
   color: #fff;
+  text-shadow: 3px 2px 10px #000000;
   font-size: 16px;
   line-height: 1.5em;
   margin: 20px 0;
@@ -1436,6 +1437,7 @@ div#preloader {
 
 .testi-text h6 {
   color: #fff;
+  text-shadow: 3px 2px 10px #000000;
   font-size: 20px;
 }
 
@@ -1470,7 +1472,7 @@ div#preloader {
 }
 
 .testimonial-carousel.owl-carousel.owl-theme .owl-controls .owl-dots div.owl-dot.active span {
-  background: rgb(67, 94, 171);
+  background: #3EC1D5;
 }
 
 .testi-text.text-center>h6 {
@@ -2057,7 +2059,7 @@ div#preloader {
   display: inline-block;
   float: left;
   padding: 0 5px;
-  width: 35%;
+  width: 25%;
 }
 
 .pst-content {
@@ -2383,8 +2385,8 @@ section.head-breadcrumb{ background: transparent center center no-repeat; height
 section.head-breadcrumb h1{ color: #ffffff; position: absolute; z-index: 2; top: 40%; }
 section.head-breadcrumb .link-breadcrumb{ position: absolute; z-index: 2; top: 65%; }
 section.head-breadcrumb a{ padding: 5px 10px; color: #ffffff; }
-section.head-breadcrumb a.active{ background: #fff; position: relative; margin-right: 15px; color: #000000; }
-section.head-breadcrumb a.active:before { left: 100%; top: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-left-color: #fff; border-width: 12px; margin-top: -12px; }
+section.head-breadcrumb a.active{ background:#3EC1D5; position: relative; margin-right: 15px; color: #ffffff; }
+section.head-breadcrumb a.active:before { left: 100%; top: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-left-color: #3EC1D5; border-width: 12px; margin-top: -12px; }
 
 /*----------------------------------------
  .Konten Postingan

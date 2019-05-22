@@ -21,7 +21,7 @@
     <div class="container">
         <h1>Produk & Layanan</h1>
         <div class="link-breadcrumb">
-            <a href="/" class="active">Beranda</a>
+            <a href="/" class="active"> <i class="fa fa-home"></i> Beranda</a>
             <a href="/produk">Produk & Layanan</a>/ Penjaminan Pembiayaan Multiguna        </div>
     </div>
 </section>
@@ -53,7 +53,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/1/pembiayaan-umum">
-                                            <img src="{{asset('assets/img/produk/1.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/icon/1.png')}}" alt=""  />
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -67,7 +67,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/3/pembiayaan-mikro">
-                                            <img src="{{asset('assets/img/produk/3.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/icon/3.png')}}" alt=""  />
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -81,7 +81,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa">
-                                            <img src="{{asset('assets/img/produk/4.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/icon/4.png')}}" alt=""  />
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -95,7 +95,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/5/custom-bond">
-                                            <img src="{{asset('assets/img/produk/5.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/icon/5.png')}}" alt=""  />
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -109,7 +109,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/6/kontra-bank-garansi">
-                                            <img src="{{asset('assets/img/produk/6.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/icon/6.png')}}" alt=""  />
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -122,7 +122,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/7/letter-of-credit">
-                                            <img src="{{asset('assets/img/produk/7.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/icon/7.png')}}" alt=""  />
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -136,7 +136,7 @@
                                 <div class="recent-single-post">
                                     <div class="post-img">
                                         <a href="/produk/detail/8/surety-bond">
-                                            <img src="{{asset('assets/img/produk/8.jpg')}}" alt="">
+                                            <img src="{{asset('assets/img/icon/8.png')}}" alt=""  />
                                         </a>
                                     </div>
                                     <div class="pst-content">
@@ -159,11 +159,9 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <!-- single-blog start -->
                         <article class="blog-post-wrapper">
-                            <div class="post-thumbnail">
-                                <img src="{{asset('assets/img/produk/2.jpg')}}" alt="" />
-                            </div>
                             <div class="post-information">
-                                <h2 style="font-family: Raleway; color: #0C519D";>Penjaminan Pembiayaan Multiguna</h2>
+                                <h2 style="font-family: Raleway; color: #0C519D";><img src="{{asset('assets/img/icon/2.png')}}" alt=""  style="width: 7%; height: auto;" />
+                                    Penjaminan Pembiayaan Multiguna</h2>
                                 <div class="entry-meta">
                                     <span class="author-meta"><i class="fa fa-bookmark"></i> <a href="/produk">Produk</a></span>
                                     <span><i class="fa fa-clock-o"></i> Jum'at, 28 Desember 2018</span>

@@ -21,7 +21,7 @@
     <div class="container">
         <h1>Produk & Layanan</h1>
         <div class="link-breadcrumb">
-            <a href="/" class="active">Beranda</a>
+            <a href="/" class="active"> <i class="fa fa-home"></i> Beranda</a>
             Produk & Layanan</div>
     </div>
 </section>
@@ -39,7 +39,9 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" class="active" data-parent="#accordion" href="#check1">
-                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN UMUM
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/1.png')}}" style="width: 8%; height: auto;">
+                                        PENJAMINAN PEMBIAYAAN UMUM
                                     </a>
                                 </h4>
                             </div>
@@ -58,7 +60,9 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN MULTIGUNA
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/2.png')}}" style="width: 8%; height: auto;">
+                                        PENJAMINAN PEMBIAYAAN MULTIGUNA
                                     </a>
                                 </h4>
                             </div>
@@ -76,7 +80,9 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check3">
-                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN MIKRO
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/3.png')}}" style="width: 8%; height: auto;">
+                                        PENJAMINAN PEMBIAYAAN MIKRO
                                     </a>
                                 </h4>
                             </div>
@@ -93,9 +99,11 @@
                         <!-- Panel Default -->
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <h4 class="check-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#check4">
-                                        <span class="acc-icons"></span>PENJAMINAN PEMBIAYAAN KONSTRUKSI & PENGADAAN BARANG JASA
+                                <h4 class="check-title" style="font-size: 15px">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#check4"">
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/4.png')}}" style="width: 8%; height: auto;">
+                                        PENJAMINAN PEMBIAYAAN KONSTRUKSI & PENGADAAN BARANG JASA
                                     </a>
                                 </h4>
                             </div>
@@ -114,7 +122,9 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check5">
-                                        <span class="acc-icons"></span>CUSTOM BOND
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/5.png')}}" style="width: 8%; height: auto;">
+                                        CUSTOM BOND
                                     </a>
                                 </h4>
                             </div>
@@ -133,7 +143,9 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check6">
-                                        <span class="acc-icons"></span>KONTRA BANK GARANSI
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/6.png')}}" style="width: 8%; height: auto;">
+                                        KONTRA BANK GARANSI
                                     </a>
                                 </h4>
                             </div>
@@ -152,7 +164,9 @@
                             <div class="panel-heading">
                                 <h4 class="check-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#check7">
-                                        <span class="acc-icons"></span>LETTER OF CREDIT (L/C)
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/7.png')}}" style="width: 8%; height: auto;">
+                                        LETTER OF CREDIT (L/C)
                                     </a>
                                 </h4>
                             </div>
@@ -161,6 +175,27 @@
                                     <p>
                                         Letter of Credit (L/C) merupakan suatu janji yang pasti dari issuing bank yang bersifat irrevocable untuk melakukan pembayaran kepada pihak penerima (beneficiary) atas presentasi dokumen yang sesuai (complying presentation) dengan...
                                         <a href="/produk/detail/7/letter-of-credit">Selengkapnya</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Panel Default -->
+                        <!-- Panel Default -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="check-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#check8">
+                                        <span class="acc-icons"></span>
+                                        <img src="{{asset('assets/img/icon/8.png')}}" style="width: 8%; height: auto;">
+                                        SURETY BOND
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="check8" class="panel-collapse collapse ">
+                                <div class="panel-body">
+                                    <p>
+                                        Surety Bond adalah suatu bentuk perjanjian antara dua pihak, dimana pihak yang satu ialah Pemberi Jaminan (Surety) yang memberi jaminan untuk Pihak Kedua yaitu Principal (Penyedia Jasa) untuk kepentingan Oblegee (Pemilik Proyek), bahwa...
+                                        <a href="/produk/detail/8/surety-bond">Selengkapnya</a>
                                     </p>
                                 </div>
                             </div>

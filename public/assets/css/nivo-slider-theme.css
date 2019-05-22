@@ -37,12 +37,14 @@ Supports Thumbs: true
 
 .layer-1-1 h1 {
   color: #fff;
+  text-shadow: 3px 2px 5px #1d2124;
   font-size: 32px;
   font-weight: 700;
 }
 
 .layer-1-2 h2 {
-  color: #fff;
+  color: #f7f7f7;
+  text-shadow: 3px 2px 7px #1d2124;
   font-size: 45px;
   font-weight: 700;
   line-height: 60px;
@@ -125,7 +127,7 @@ Supports Thumbs: true
 
 .nivo-controlNav a:hover, .nivo-controlNav a.active {
   background: #fff none repeat scroll 0 0;
-  border-color: #000000;
+  border-color: #3EC1D5;
   -moz-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
   -o-transform: rotate(180deg);

@@ -36,7 +36,7 @@
                         <div class="slider-content">
                             <!-- layer 1 -->
                             <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                                <h1 class="title1">Selamat Datang</h1>
+                                <h1 class="title1">SELAMAT DATANG</h1>
                             </div>
                             <!-- layer 2 -->
                             <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
@@ -84,7 +84,7 @@
                         <div class="slider-content">
                             <!-- layer 1 -->
                             <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                                <h1 class="title1">Focus </h1>
+                                <h1 class="title1" >PT. FOCUS INSERVINDO </h1>
                             </div>
                             <!-- layer 2 -->
                             <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
@@ -123,31 +123,14 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href="/produk/detail/1/pembiayaan-umum">
-                                    <i class="fa fa-check-square"></i>
+                                    <img src="{{asset('assets/img/icon/1.png')}}" style="width: 30%; height: auto;">
                                 </a>
                                 <h5><b>Penjaminan Pembiayaan Umum</b></h5>
                                 <p>
                                     Penjaminan Pembiayaan Umum adalah Penjaminan Pembiayaan yang diajukan untuk mendukung kelancaran kegiatan Usaha/Proyek atau
                                     Kegiatan Investasi yang dilakukan oleh perorangan...                   </p>
+                                <p><a href="/produk/detail/1/pembiayaan-umum"> <b>SELENGKAPNYA</b>  </a></p>
                             </div>
-                        </div>
-                        <!-- end about-details -->
-                    </div>
-                </div>
-                <!-- End Left services -->
-                <!-- Start Left services -->
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="about-move">
-                        <!-- start about-details -->
-                        <div class="services-details">
-                            <div class="single-services">
-                                <a class="services-icon" href="/produk/detail/2/pembiayaan-multiguna">
-                                    <i class="fa fa-briefcase"></i>
-                                </a>
-                                <h5><b>Penjaminan Pembiayaan Multiguna</b></h5>
-                                <p>
-                                    Penjaminan Pembiayaan Multiguna adalah Pembiayaan atau Penjaminan atas kredit/pembiayaan yang diberikan oleh Penerima Jaminan
-                                    untuk Lembaga Keuangan Lainya (Non Bank) kepada Terjamin..</div>
                         </div>
                         <!-- end about-details -->
                     </div>
@@ -161,31 +144,13 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href='/produk/detail/3/pembiayaan-mikro'>
-                                    <i class="fa fa-bar-chart"></i>
+                                    <img src="{{asset('assets/img/icon/3.png')}}" style="width: 30%; height: auto;">
                                 </a>
                                 <h5><b>Penjaminan Pembiayaan Mikro</b></h5>
                                 <p>
                                     Penjaminan Pembiayaan Mikro adalah penjaminan atau pembiayaan atas kredit yang diberikan oleh Penerima
-                                    Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan..</div>
-                        </div>
-                        <!-- end about-details -->
-                    </div>
-                </div>
-                <!-- End Left services -->
-                <!-- Start Left services -->
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <!-- end col-md-4 -->
-                    <div class=" about-move">
-                        <!-- start about-details -->
-                        <div class="services-details">
-                            <div class="single-services">
-                                <a class="services-icon" href='/produk/detail/4/pembiayaan-konstruksi-dan-pengadaan-barang-jasa'>
-                                    <i class="fa fa-building-o"></i>
-                                </a>
-                                <h5><b>Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa </b> </h5>
-                                <p>
-                                    Penjaminan Pembiayaan Konstruksi & Pengadaan Barang/Jasa adalah Penjaminan/Pembiayaan atas Kredit yang diberikan
-                                    oleh Penerima Jaminan kepada Terjamin untuk keperluan tambahan Modal Kerja usaha jasa Konstruksi...
+                                    Jaminan kepada Terjamin Pengusaha Mikro dan Kecil, untuk keperluan..
+                                <p><a href="/produk/detail/3/pembiayaan-mikro"> <b>SELENGKAPNYA</b>  </a></p>
                             </div>
                         </div>
                         <!-- end about-details -->
@@ -199,34 +164,17 @@
                         <!-- start about-details -->
                         <div class="services-details">
                             <div class="single-services">
-                                <a class="services-icon" href='/produk/detail/5/custom-bond'>
-                                    <i class="fa fa-ship"></i>
-                                </a>
-                                <h4><b> Custom Bond </b></h4>
-                                <br/>
-                                <p>
-                                    Custom Bond adalah jenis penjaminan yang diberikan oleh Perusahaan Asuransi Penjamin (Surety Company),
-                                    untuk kepentingan pihak Terjamin (Principal) yang terikat untuk memenuhi...</div>
-                        </div>
-                        <!-- end about-details -->
-                    </div>
-                </div>
-                <!-- End Left services -->
-                <!-- Start Left services -->
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <!-- end col-md-4 -->
-                    <div class=" about-move">
-                        <!-- start about-details -->
-                        <div class="services-details">
-                            <div class="single-services">
                                 <a class="services-icon" href='/produk/detail/6/kontra-bank-garansi'>
-                                    <i class="fa fa-file-text"></i>
+                                    <img src="{{asset('assets/img/icon/6.png')}}" style="width: 30%; height: auto;">
                                 </a>
-                                <h4> <b>Kontra Bank Garansi</b></h4>
-                                <br/>
+                                <h5> <b>Kontra Bank Garansi</b></h5>
                                 <p>
                                     Kontra Bank Garansi adalah Penjaminan yang diberikan Penjamin (Perusahaan Penjaminan) kepada
-                                    Penerima Jaminan (Bank) yang bersifat tanpa syarat (unconditional)... </div>
+                                    Penerima Jaminan (Bank) yang bersifat tanpa syarat (unconditional)
+                                    ...
+                                </p>
+                                <p><a href="/produk/detail/6/kontra-bank-garansi"> <b>SELENGKAPNYA</b>  </a></p>
+                            </div>
                         </div>
                         <!-- end about-details -->
                     </div>
@@ -238,7 +186,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline services-head text-center">
-                    <a class="ready-btn right-btn-a page-scrol" href="/produk">Selengkapnya</a>
+                    <a class="ready-btn right-btn-a page-scrol" href="/produk">Lihat Produk Lebih Banyak</a>
                 </div>
             </div>
         </div>
@@ -255,7 +203,7 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <!-- Start testimonials Start -->
                     <div class="testimonial-content text-center">
-                        <a class="quate" href="#"><i class="fa fa-quote-right"></i></a>
+                        <a class="quate"><i class="fa fa-quote-right"></i></a>
                         <!-- start testimonial carousel -->
                         <div class="testimonial-carousel">
                             <div class="single-testi">

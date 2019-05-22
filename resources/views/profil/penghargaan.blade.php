@@ -30,7 +30,7 @@
     <div class="container">
         <h1>Penghargaan</h1>
         <div class="link-breadcrumb">
-            <a href="/" class="active">Beranda</a>
+            <a href="/" class="active"> <i class="fa fa-home"></i> Beranda</a>
             Profil Perusahaan / Penghargaan        </div>
     </div>
 </section>
